@@ -1,0 +1,14 @@
+C:\Users\johnc\source\repos\IrisBanck.DataAccess\bin\Debug\net6.0\IrisBanck.DataAccess.deps.json
+C:\Users\johnc\source\repos\IrisBanck.DataAccess\bin\Debug\net6.0\IrisBanck.DataAccess.runtimeconfig.json
+C:\Users\johnc\source\repos\IrisBanck.DataAccess\bin\Debug\net6.0\IrisBanck.DataAccess.dll
+C:\Users\johnc\source\repos\IrisBanck.DataAccess\bin\Debug\net6.0\IrisBanck.DataAccess.pdb
+C:\Users\johnc\source\repos\IrisBanck.DataAccess\obj\Debug\net6.0\IrisBanck.DataAccess.csproj.AssemblyReference.cache
+C:\Users\johnc\source\repos\IrisBanck.DataAccess\obj\Debug\net6.0\IrisBanck.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johnc\source\repos\IrisBanck.DataAccess\obj\Debug\net6.0\IrisBanck.DataAccess.AssemblyInfoInputs.cache
+C:\Users\johnc\source\repos\IrisBanck.DataAccess\obj\Debug\net6.0\IrisBanck.DataAccess.AssemblyInfo.cs
+C:\Users\johnc\source\repos\IrisBanck.DataAccess\obj\Debug\net6.0\IrisBanck.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\johnc\source\repos\IrisBanck.DataAccess\obj\Debug\net6.0\IrisBanck.DataAccess.dll
+C:\Users\johnc\source\repos\IrisBanck.DataAccess\obj\Debug\net6.0\refint\IrisBanck.DataAccess.dll
+C:\Users\johnc\source\repos\IrisBanck.DataAccess\obj\Debug\net6.0\IrisBanck.DataAccess.pdb
+C:\Users\johnc\source\repos\IrisBanck.DataAccess\obj\Debug\net6.0\IrisBanck.DataAccess.genruntimeconfig.cache
+C:\Users\johnc\source\repos\IrisBanck.DataAccess\obj\Debug\net6.0\ref\IrisBanck.DataAccess.dll
